@@ -34,3 +34,10 @@ QuickChart → to generate report graph✅
 HTML to PDF → to export the report✅
 
 HeyGen API → to manage avatar✅
+# n8n + Heygen 
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/258ad5ad-157d-406a-924e-d951aec1e8e8" />
+
+
+<img width="1230" height="585" alt="image" src="https://github.com/user-attachments/assets/3db39387-61de-411d-a9d9-cfb325c46935" />
+
+
