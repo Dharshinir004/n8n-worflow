@@ -1,6 +1,8 @@
 ### 📌CrowdWisdomTrading n8n + Realtime avatar
 Clients are looking for an avatar on their website to “Warm” leads and collect their personal information + what they need/want.
 
+
+Video Link:- https://youtu.be/jDgY5VvG7iM
 ### 🌟Technicals:
 - Framework: n8n 
 - LLM Provider: openrouter (you can find free 1$ trail or use free models) or gemini (free)
